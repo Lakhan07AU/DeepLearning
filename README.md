@@ -50,9 +50,8 @@ Assignments, projects, and notebooks are added here as the semester progresses �
  
 ```
 DeepLearning/
-├── assignments/        (PDFs, reports)
-├── projects/            (comparisons, ethics, applied work)
-├── notebooks/           (.ipynb — code & experiments)
+├── assignments/       
+├── projects/           
 └── README.md
 ```
  
